@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+Aspiring Data Analyst with a passion for turning raw data into meaningful insights. I enjoy working with real-world datasets to perform data cleaning, exploratory data analysis, and statistical modeling using tools like Python and SQL.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Currently building projects focused on exploratory data analysis, machine learning, regression analysis, and data visualization with an emphasis on Python programming and Jupyter notebook.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy concerning myself with my 2 year old venus fly trap. I enjoy the process of exploring data and the moment when patterns emerge that lead to new and useful insights.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
